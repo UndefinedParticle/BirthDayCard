@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HappyBirthday</string>
+    <string name="next">Next</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="click_here_for_something_special">Click Here For Something Special</string>
+    <string name="happy_birthday_to_you">Happy Birthday To You</string>
+</resources>
